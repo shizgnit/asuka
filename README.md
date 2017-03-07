@@ -766,7 +766,7 @@ and `AT::DOM`.
 
 # Author
 
-Dee E. Abbott ( codeneko<codeneko@gmail.com> )
+Dee E. Abbott
 
 # References
 
@@ -809,10 +809,3 @@ asuka library.  It is not complete.
     OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
     OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
-# POD ERRORS
-
-Hey! **The above document had some coding errors, which are explained below:**
-
-- Around line 316:
-
-    Deleting unknown formatting code A<>
