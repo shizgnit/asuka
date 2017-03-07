@@ -1,0 +1,22 @@
+<xml>
+  <lot>
+    <wafer/>
+    <wafer attr="1">
+      <checked/>
+      toaster
+    </wafer>
+    <wafer attr="3">
+      <checked/>
+      bread
+    </wafer>
+    <wafer>test1</wafer>
+    <wafer>
+    test2</wafer>
+    <wafer>test3
+    </wafer>
+    <wafer>
+        test4
+        <checked></checked>
+    </wafer>
+  </lot>
+</xml>

@@ -1,0 +1,31 @@
+# Exported from Wings 3D 0.98.32a
+newmtl cylinder3_auv
+Ns 100.000
+d 1.00000
+illum 2
+Kd 1.00000 1.00000 1.00000
+Ka 1.00000 1.00000 1.00000
+Ks 1.00000 1.00000 1.00000
+Ke 0.00000e+0 0.00000e+0 0.00000e+0
+map_Kd cylinder3_auv.tga
+
+newmtl sphere1_auv
+Ns 100.000
+d 1.00000
+illum 2
+Kd 1.00000 1.00000 1.00000
+Ka 1.00000 1.00000 1.00000
+Ks 1.00000 1.00000 1.00000
+Ke 0.00000e+0 0.00000e+0 0.00000e+0
+map_Kd sphere1_auv.tga
+
+newmtl sphere5_auv
+Ns 100.000
+d 1.00000
+illum 2
+Kd 1.00000 1.00000 1.00000
+Ka 1.00000 1.00000 1.00000
+Ks 1.00000 1.00000 1.00000
+Ke 0.00000e+0 0.00000e+0 0.00000e+0
+map_Kd sphere5_auv.tga
+

@@ -1,0 +1,7 @@
+sources = [
+  'obj.cpp',
+]
+
+Import('env')
+obj = env.SharedObject(sources)
+Return('obj')

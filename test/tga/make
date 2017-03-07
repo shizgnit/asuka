@@ -1,0 +1,2 @@
+#!/bin/sh
+g++ -I../release/include -L../release/lib -lasuka test.cpp

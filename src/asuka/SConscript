@@ -1,0 +1,22 @@
+sources = [
+  'collection.cpp',
+  'field.cpp',
+  'configuration.cpp',
+  'db.cpp',
+  'dom.cpp',
+  'xpath.cpp',
+  'filesystem.cpp',
+  'regex.cpp',
+  'manip.cpp',
+  'timer.cpp',
+  'http.cpp',
+  'identity.cpp',
+  'resource.cpp',
+  'raster.cpp',
+  'linear.cpp',
+  'json.cpp',
+]
+
+Import('env')
+obj = env.SharedObject(sources)
+Return('obj')
